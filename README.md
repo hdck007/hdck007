@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hdck007&label=Profile%20views&color=0e75b6&style=flat" alt="hdck007" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hdck007" alt="hdck007" /></a> </p>
-
 - 🔭 I’m currently working at [Tealfeed](tealfeed.com)
 
 - 🌱 I’m currently learning **r3f**
