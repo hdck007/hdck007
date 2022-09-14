@@ -5,13 +5,11 @@
 
 - 🔭 I’m currently working at [Elasticrun](https://elastic.run/)
 
-- 🌱 I’m currently learning **r3f**
+- 🌱 I’m currently learning **r3f** and **golang**
 
 - 👨‍💻 All of my projects are available at [github.com/hdck007](github.com/hdck007)
 
-- 📝 I take sessions on [youtube.com](youtube.com)
-
-- 💬 Ask me about **web development and threejs**
+- 💬 Ask me about **web development**
 
 - ⚡ Fun fact **I am always happy**
 
