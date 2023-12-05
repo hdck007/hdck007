@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hdck007&label=Profile%20views&color=0e75b6&style=flat" alt="hdck007" /> </p>
 
-- 🔭 I’m currently working at [Tealfeed](https://www.tealfeed.com/)
-
+- 🔭 I’m currently working at a Stealth startup
 - 🌱 I’m currently learning **r3f** and **golang**
 
 - 👨‍💻 All of my projects are available at [github.com/hdck007](github.com/hdck007)
