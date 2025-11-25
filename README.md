@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hdck007&label=Profile%20views&color=0e75b6&style=flat" alt="hdck007" /> </p>
 
 - 🔭 I’m currently working at a Browserstack
-- 🌱 I’m currently learning **r3f** and **golang**
+- 🌱 I’m currently exploring **AI agents**
 
 - 👨‍💻 All of my projects are available at [github.com/hdck007](github.com/hdck007)
 
-- 💬 Ask me about **web development**
+- 💬 Ask me about **web development**, **AI agents** and **Databases**
 
 - ⚡ Fun fact **I am always happy**
 
